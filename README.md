@@ -23,10 +23,10 @@ Bi-Encoder model using pre-trained base models i.e. bert-base-uncased.
 
 Cited as:
 
-@article{kumar2021dprtpu,
-  title   = "The Illustrated Dense Passage Retreiver on TPU",
-  author  = "Kumar, Ankur",
-  journal = "ankur3107.github.io",
-  year    = "2021",
-  url     = "https://ankur3107.github.io/blogs/dense-passage-retriever/"
-}
+    @article{kumar2021dprtpu,
+      title   = "The Illustrated Dense Passage Retreiver on TPU",
+      author  = "Kumar, Ankur",
+      journal = "ankur3107.github.io",
+      year    = "2021",
+      url     = "https://ankur3107.github.io/blogs/dense-passage-retriever/"
+    }
